@@ -64,7 +64,7 @@ total probability stays equal to 1.
 
 | One barrier | Two barriers |
 |---|---|
-| ![One barrier](dependiente/imagenes/unabarrera.png) | ![Two barriers](dependiente/imagenes/dosbarreras.png) |
+| ![One barrier](Dependiente/imagenes/unabarrera.png) | ![Two barriers](Dependiente/imagenes/dosbarreras.png) |
 
 Other figures: varying `q` (`q01.png`, `q20.png`, `q100.png`), wider barriers
 (`unabarreragrande.png`, `dosbarrerasgrandes.png`) and `pozo01.png`,
@@ -112,13 +112,13 @@ For the first 10 eigenvalues the script:
 
 | Method diagram | Eigenfunctions |
 |---|---|
-| ![Flowchart](independiente/imagenes/flujograma.png) | ![Plot](independiente/imagenes/representacion.png) |
+| ![Flowchart](Independiente/imagenes/flujograma.png) | ![Plot](Independiente/imagenes/representacion.png) |
 
 Relative error study as a function of the step size `h`:
 
 | `h = 0.1` | `h = 0.001` | `h = 0.0001` |
 |---|---|---|
-| ![h = 0.1](independiente/imagenes/simh0.100000.png) | ![h = 0.001](independiente/imagenes/simh0.001000.png) | ![h = 0.0001](independiente/imagenes/simh0.000100.png) |
+| ![h = 0.1](Independiente/imagenes/simh0.100000.png) | ![h = 0.001](Independiente/imagenes/simh0.001000.png) | ![h = 0.0001](Independiente/imagenes/simh0.000100.png) |
 
 ## Repository structure
 
@@ -143,5 +143,4 @@ working folder.
 
 ## Requirements
 
-- MATLAB R2023b or later (`yscale` is used).
-- No additional toolboxes required.
+- MATLAB R2023b or later.
